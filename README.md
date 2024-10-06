@@ -19,8 +19,8 @@ This Python script creates a temporary email address using your Gmail account an
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/gmail-temp-email-checker.git
-    cd gmail-temp-email-checker
+    git clone https://github.com/PushkarOP/TempGmail.git
+    cd TempGmail
     ```
 
 2. **Install dependencies:**
